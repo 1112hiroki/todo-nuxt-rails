@@ -41,8 +41,13 @@
         type="checkbox"
         @change="clearStrageId"
       >
-        メールアドレスを保存する (共有パソコンからログインする場合はチェックを外してください)
+        メールアドレスを保存する
       </el-checkbox>
+      <p>テストユーザー情報：<br>
+        - メールアドレス yamada@gmail.com<br>
+        - パスワード password1
+      </p>
+      <a href="http://localhost:8080/admin/">サイト管理者用URL</a>
     </div>
   </div>
 </template>
