@@ -47,7 +47,7 @@
         - メールアドレス yamada@gmail.com<br>
         - パスワード password1
       </p>
-      <a href="http://localhost:8080/admin/">サイト管理者用URL</a>
+      <a href="http://localhost:8080/admin/">- サイト管理者用URL</a>
     </div>
   </div>
 </template>
